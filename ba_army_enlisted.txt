@@ -1,0 +1,9 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+		OR-1	Vojnik	https://upload.wikimedia.org/wikipedia/commons/d/d3/Bosnia_and_Herzegovina_Private_Insignia.svg
+		OR-2	Vojnik 1 klase	https://upload.wikimedia.org/wikipedia/commons/c/c7/Bosnia_and_Herzegovina_Private_First_Class_Insignia.svg
+		OR-3/4	Kaplar	https://upload.wikimedia.org/wikipedia/commons/d/d8/Bosnia_and_Herzegovina_Corporal_Insignia.svg
+		OR-5	Vodnik	https://upload.wikimedia.org/wikipedia/commons/9/92/Bosnia_and_Herzegovina_Sergeant_Insignia.svg
+		OR-6	Stariji vodnik	https://upload.wikimedia.org/wikipedia/commons/c/c1/Bosnia_and_Herzegovina_Staff_Sergeant_Insignia.svg
+		OR-7	Stariji vodnik 1	https://upload.wikimedia.org/wikipedia/commons/5/53/Bosnia_and_Herzegovina_Sergeant_First_Class_Insignia.svg
+		OR-8	Zastavnik	https://upload.wikimedia.org/wikipedia/commons/e/e8/Bosnia_and_Herzegovina_Master_Sergeant_Insignia.svg
+		OR-9	Zastavnik 1 klase	https://upload.wikimedia.org/wikipedia/commons/9/93/Bosnia_and_Herzegovina_Sergeant_Major_Insignia.svg

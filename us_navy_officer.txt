@@ -1,0 +1,11 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+O-1	ENS	OF-1	Ensign	https://upload.wikimedia.org/wikipedia/commons/0/05/US-O1_insignia.svg
+O-2	LTJG	OF-1	Lieutenant Junior Grade	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O2_insignia.svg
+O-3	LT	OF-2	Lieutenant	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O3_insignia.svg
+O-4	LCDR	OF-3	Lieutenant Commander	https://upload.wikimedia.org/wikipedia/commons/8/8f/US-O4_insignia.svg
+O-5	CDR	OF-4	Commander	https://upload.wikimedia.org/wikipedia/commons/6/6e/US-O5_insignia.svg
+O-6	CAPT	OF-5	Captain	https://upload.wikimedia.org/wikipedia/commons/c/c5/US-O6_insignia.svg
+O-7	RDML	OF-6	Rear Admiral (Lower Half)	https://upload.wikimedia.org/wikipedia/commons/2/23/US-O7_insignia.svg
+O-8	RADM	OF-7	Rear Admiral (Upper Half)	https://upload.wikimedia.org/wikipedia/commons/9/91/US-O8_insignia.svg
+O-9	VADM	OF-8	Vice Admiral	https://upload.wikimedia.org/wikipedia/commons/d/da/US-O9_insignia.svg
+O-10	ADM	OF-9	Admiral	https://upload.wikimedia.org/wikipedia/commons/4/40/US-O10_insignia.svg

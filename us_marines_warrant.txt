@@ -1,0 +1,6 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+W-1	WO	WO-1	Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/c/c4/USMC_WO1.svg
+W-2	CWO2	WO-2	Chief Warrant Officer-2	https://upload.wikimedia.org/wikipedia/commons/7/76/USMC_CWO2.svg
+W-3	CWO3	WO-3	Chief Warrant Officer-3	https://upload.wikimedia.org/wikipedia/commons/6/6f/USMC_CWO3.svg
+W-4	CWO4	WO-4	Chief Warrant Officer-4	https://upload.wikimedia.org/wikipedia/commons/1/16/USMC_CWO4.svg
+W-5	CWO5	WO-5	Chief Warrant Officer-5	https://upload.wikimedia.org/wikipedia/commons/4/47/USMC_CWO5.svg
