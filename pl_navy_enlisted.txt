@@ -6,7 +6,7 @@ DoD Grade	Abbreviation	NATO Code	Title	Image URL
 	bsmt.	OR-4	bosmanmat	https://upload.wikimedia.org/wikipedia/commons/9/9e/POL_PMW_pagon1_bosmanmat.svg
 	bsm.	OR-5	bosman	https://upload.wikimedia.org/wikipedia/commons/a/a9/POL_PMW_pagon1_bosman.svg
 	st.bsm.	OR-6	starszy bosman	https://upload.wikimedia.org/wikipedia/commons/b/b0/POL_PMW_pagon1_starszy_bosman.svg
-	mł.chor.mar.	OR-7	młodszy chorąży marynarki	https://upload.wikimedia.org/wikipedia/commons/f/f6/POL_PMW_pagon1_m%C5%82odszy_chor%C4%85%C5%BCy_marynarki.svg
-	chor.mar.	OR-8	chorąży marynarki	https://upload.wikimedia.org/wikipedia/commons/b/b8/POL_PMW_pagon1_chor%C4%85%C5%BCy_marynarki.svg
-	st.chor.mar.	OR-9	starszy chorąży marynarki	https://upload.wikimedia.org/wikipedia/commons/6/6b/POL_PMW_pagon1_starszy_chor%C4%85%C5%BCy_marynarki.svg
-	st.chor.szt.mar.	OR-9	starszy chorąży sztabowy marynarki	https://upload.wikimedia.org/wikipedia/commons/e/e1/POL_PMW_pagon1_starszy_chor%C4%85%C5%BCy_sztabowy_marynarki.svg
+	ml.chor.mar.	OR-7	mlodszy chorazy marynarki	https://upload.wikimedia.org/wikipedia/commons/f/f6/POL_PMW_pagon1_m%C5%82odszy_chor%C4%85%C5%BCy_marynarki.svg
+	chor.mar.	OR-8	chorazy marynarki	https://upload.wikimedia.org/wikipedia/commons/b/b8/POL_PMW_pagon1_chor%C4%85%C5%BCy_marynarki.svg
+	st.chor.mar.	OR-9	starszy chorazy marynarki	https://upload.wikimedia.org/wikipedia/commons/6/6b/POL_PMW_pagon1_starszy_chor%C4%85%C5%BCy_marynarki.svg
+	st.chor.szt.mar.	OR-9	starszy chorazy sztabowy marynarki	https://upload.wikimedia.org/wikipedia/commons/e/e1/POL_PMW_pagon1_starszy_chor%C4%85%C5%BCy_sztabowy_marynarki.svg
