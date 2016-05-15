@@ -1,0 +1,11 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+	ppor.mar.	OF-1	podporucznik marynarki	https://upload.wikimedia.org/wikipedia/commons/6/6c/POL_PMW_pagon1_podporucznik_marynarki.svg
+	por.mar.	OF-1	porucznik marynarki	https://upload.wikimedia.org/wikipedia/commons/a/af/POL_PMW_pagon1_porucznik_marynarki.svg
+	kpt.mar.	OF-2	kapitan marynarki	https://upload.wikimedia.org/wikipedia/commons/2/2a/POL_PMW_pagon1_kapitan_marynarki.svg
+	kmdr.ppor.	OF-3	komandor podporucznik	https://upload.wikimedia.org/wikipedia/commons/3/3f/POL_PMW_pagon1_komandor_podporucznik.svg
+	kmdr.por.	OF-4	komandor porucznik	https://upload.wikimedia.org/wikipedia/commons/2/28/POL_PMW_pagon1_komandor_porucznik.svg
+	kmdr.	OF-5	komandor	https://upload.wikimedia.org/wikipedia/commons/c/c4/POL_PMW_pagon1_komandor.svg
+	kadm.	OF-6	kontradmirał	https://upload.wikimedia.org/wikipedia/commons/2/23/POL_PMW_pagon1_kontradmira%C5%82.svg
+	wadm.	OF-7	wiceadmirał	https://upload.wikimedia.org/wikipedia/commons/8/8c/POL_PMW_pagon1_wiceadmira%C5%82.svg
+	adm.fl.	OF-8	admirał floty	https://upload.wikimedia.org/wikipedia/commons/2/24/POL_PMW_pagon1_admira%C5%82_floty.svg
+	adm.	OF-9	admirał	https://upload.wikimedia.org/wikipedia/commons/9/98/POL_PMW_pagon1_admira%C5%82.svg
