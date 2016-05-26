@@ -1,0 +1,184 @@
+Country	Branch	DoD Grade	Abbreviation	NATO Code	Title	Image URL
+ba	army			OR-1	Vojnik	https://upload.wikimedia.org/wikipedia/commons/d/d3/Bosnia_and_Herzegovina_Private_Insignia.svg
+ba	army			OR-2	Vojnik 1 klase	https://upload.wikimedia.org/wikipedia/commons/c/c7/Bosnia_and_Herzegovina_Private_First_Class_Insignia.svg
+ba	army			OR-3/4	Kaplar	https://upload.wikimedia.org/wikipedia/commons/d/d8/Bosnia_and_Herzegovina_Corporal_Insignia.svg
+ba	army			OR-5	Vodnik	https://upload.wikimedia.org/wikipedia/commons/9/92/Bosnia_and_Herzegovina_Sergeant_Insignia.svg
+ba	army			OR-6	Stariji vodnik	https://upload.wikimedia.org/wikipedia/commons/c/c1/Bosnia_and_Herzegovina_Staff_Sergeant_Insignia.svg
+ba	army			OR-7	Stariji vodnik 1	https://upload.wikimedia.org/wikipedia/commons/5/53/Bosnia_and_Herzegovina_Sergeant_First_Class_Insignia.svg
+ba	army			OR-8	Zastavnik	https://upload.wikimedia.org/wikipedia/commons/e/e8/Bosnia_and_Herzegovina_Master_Sergeant_Insignia.svg
+ba	army			OR-9	Zastavnik 1 klase	https://upload.wikimedia.org/wikipedia/commons/9/93/Bosnia_and_Herzegovina_Sergeant_Major_Insignia.svg
+ba	army			OF-1	Podporucnik	https://upload.wikimedia.org/wikipedia/commons/4/45/Bosnia_and_Herzegovina_Lieutenant_Insignia.svg
+ba	army			OF-1	Porucnik	https://upload.wikimedia.org/wikipedia/commons/c/c1/Bosnia_and_Herzegovina_1st_Lieutenant_Insignia.svg
+ba	army			OF-2	Kapetan	https://upload.wikimedia.org/wikipedia/commons/b/be/Bosnia_and_Herzegovina_Captain_Insignia.svg
+ba	army			OF-3	Major	https://upload.wikimedia.org/wikipedia/commons/3/33/Bosnia_and_Herzegovina_Major_Insignia.svg
+ba	army			OF-4	Pukovnik	https://upload.wikimedia.org/wikipedia/commons/5/57/Bosnia_and_Herzegovina_Colonel_Insignia.svg
+ba	army			OF-5	Brigadir	https://upload.wikimedia.org/wikipedia/commons/5/58/Bosnia_and_Herzegovina_Brigadier_Insignia.svg
+ba	army			OF-6	Brigadni general	https://upload.wikimedia.org/wikipedia/commons/9/97/Bosnia_and_Herzegovina_Brugadier-general_Insignia.svg
+ba	army			OF-7	General major	https://upload.wikimedia.org/wikipedia/commons/a/ac/Bosnia_and_Herzegovina_Major-general_Insignia.svg
+ba	army			OF-8	General pukovnik	https://upload.wikimedia.org/wikipedia/commons/f/f5/Bosnia_and_Herzegovina_Colonel-general_Insignia.svg
+pl	af		szer.	OR-1	szeregowy	https://upload.wikimedia.org/wikipedia/commons/6/69/Rank_insignia_of_szeregowy_of_the_Air_Force_of_Poland.svg
+pl	af		st.szer.	OR-2	starszy szeregowy	https://upload.wikimedia.org/wikipedia/commons/6/62/Rank_insignia_of_starszy_szeregowy_of_the_Air_Force_of_Poland.svg
+pl	af		kpr.	OR-3	kapral	https://upload.wikimedia.org/wikipedia/commons/b/ba/Rank_insignia_of_kapral_of_the_Air_Force_of_Poland.svg
+pl	af		st.kpr.	OR-4	starszy kapral	https://upload.wikimedia.org/wikipedia/commons/2/22/Rank_insignia_of_starszy_kapral_of_the_Air_Force_of_Poland.svg
+pl	af		plut.	OR-4	plutonowy	https://upload.wikimedia.org/wikipedia/commons/e/e9/Rank_insignia_of_plutonowy_of_the_Air_Force_of_Poland.svg
+pl	af		sierz.	OR-5	sierzant	https://upload.wikimedia.org/wikipedia/commons/8/82/Rank_insignia_of_sier%C5%BCant_of_the_Air_Force_of_Poland.svg
+pl	af		st.sierz.	OR-6	starszy sierzant	https://upload.wikimedia.org/wikipedia/commons/b/bc/Rank_insignia_of_starszy_sier%C5%BCant_of_the_Air_Force_of_Poland.svg
+pl	af		ml.chor.	OR-7	mlodszy chorazy	https://upload.wikimedia.org/wikipedia/commons/5/55/Rank_insignia_of_m%C5%82odszy_chor%C4%85%C5%BCy_of_the_Air_Force_of_Poland.svg
+pl	af		chor.	OR-8	chorazy	https://upload.wikimedia.org/wikipedia/commons/f/f4/Rank_insignia_of_chor%C4%85%C5%BCy_of_the_Air_Force_of_Poland.svg
+pl	af		st.chor.	OR-9	starszy chorazy	https://upload.wikimedia.org/wikipedia/commons/d/de/Rank_insignia_of_starszy_chor%C4%85%C5%BCy_of_the_Air_Force_of_Poland.svg
+pl	af		st.chor.szt.	OR-9	starszy chorazy sztabowy	https://upload.wikimedia.org/wikipedia/commons/5/56/Rank_insignia_of_starszy_chor%C4%85%C5%BCy_sztabowy_of_the_Air_Force_of_Poland.svg
+pl	af		ppor.	OF-1	podporucznik	https://upload.wikimedia.org/wikipedia/commons/f/fe/Rank_insignia_of_podporucznik_of_the_Air_Force_of_Poland.svg
+pl	af		por.	OF-1	porucznik	https://upload.wikimedia.org/wikipedia/commons/c/c8/Rank_insignia_of_porucznik_of_the_Air_Force_of_Poland.svg
+pl	af		kpt.	OF-2	kapitan	https://upload.wikimedia.org/wikipedia/commons/a/ad/Rank_insignia_of_kapitan_of_the_Air_Force_of_Poland.svg
+pl	af		mjr.	OF-3	major	https://upload.wikimedia.org/wikipedia/commons/1/1b/Rank_insignia_of_major_of_the_Air_Force_of_Poland.svg
+pl	af		pplk.	OF-4	podpulkownik	https://upload.wikimedia.org/wikipedia/commons/4/48/Rank_insignia_of_podpu%C5%82kownik_of_the_Air_Force_of_Poland.svg
+pl	af		plk.	OF-5	pulkownik	https://upload.wikimedia.org/wikipedia/commons/8/80/Rank_insignia_of_pu%C5%82kownik_of_the_Air_Force_of_Poland.svg
+pl	af		gen.bryg.	OF-6	general brygady	https://upload.wikimedia.org/wikipedia/commons/5/58/Rank_insignia_of_genera%C5%82_brygady_of_the_Air_Force_of_Poland.svg
+pl	af		gen.dyw.	OF-7	general dywizji	https://upload.wikimedia.org/wikipedia/commons/e/e2/Rank_insignia_of_genera%C5%82_dywizji_of_the_Air_Force_of_Poland.svg
+pl	af		gen.broni	OF-8	general broni	https://upload.wikimedia.org/wikipedia/commons/0/05/Rank_insignia_of_genera%C5%82_broni_of_the_Air_Force_of_Poland.svg
+pl	af		gen.	OF-9	general	https://upload.wikimedia.org/wikipedia/commons/1/17/Rank_insignia_of_genera%C5%82_of_the_Air_Force_of_Poland.svg
+pl	army		szer.	OR-1	szeregowy	https://upload.wikimedia.org/wikipedia/commons/0/0d/Army-POL-OR-01.svg
+pl	army		st.szer.	OR-2	starszy szeregowy	https://upload.wikimedia.org/wikipedia/commons/d/d6/Army-POL-OR-02.svg
+pl	army		kpr.	OR-3	kapral	https://upload.wikimedia.org/wikipedia/commons/e/e2/Army-POL-OR-03.svg
+pl	army		st.kpr.	OR-4	starszy kapral	https://upload.wikimedia.org/wikipedia/commons/7/71/Army-POL-OR-04b.svg
+pl	army		plut.	OR-4	plutonowy	https://upload.wikimedia.org/wikipedia/commons/b/b8/Army-POL-OR-04a.svg
+pl	army		sierz.	OR-5	sierzant	https://upload.wikimedia.org/wikipedia/commons/6/6e/Army-POL-OR-05.svg
+pl	army		st.sierz.	OR-6	starszy sierzant	https://upload.wikimedia.org/wikipedia/commons/1/1b/Army-POL-OR-06.svg
+pl	army		ml.chor.	OR-7	mlodszy chorazy	https://upload.wikimedia.org/wikipedia/commons/6/67/Army-POL-OR-07.svg
+pl	army		chor.	OR-8	chorazy	https://upload.wikimedia.org/wikipedia/commons/3/32/Army-POL-OR-08.svg
+pl	army		st.chor.	OR-9	starszy chorazy	https://upload.wikimedia.org/wikipedia/commons/5/52/Army-POL-OR-09b.svg
+pl	army		st.chor.szt.	OR-9	starszy chorazy sztabowy	https://upload.wikimedia.org/wikipedia/commons/1/1c/Army-POL-OR-09a.svg
+pl	army		ppor.	OF-1	podporucznik	https://upload.wikimedia.org/wikipedia/commons/4/47/Army-POL-OF-01b.svg
+pl	army		por.	OF-1	porucznik	https://upload.wikimedia.org/wikipedia/commons/c/cd/Army-POL-OF-01a.svg
+pl	army		kpt.	OF-2	kapitan	https://upload.wikimedia.org/wikipedia/commons/a/a0/Army-POL-OF-02.svg
+pl	army		mjr.	OF-3	major	https://upload.wikimedia.org/wikipedia/commons/0/00/Army-POL-OF-03.svg
+pl	army		pplk.	OF-4	podpulkownik	https://upload.wikimedia.org/wikipedia/commons/3/39/Army-POL-OF-04.svg
+pl	army		plk.	OF-5	pulkownik	https://upload.wikimedia.org/wikipedia/commons/c/c4/Army-POL-OF-05.svg
+pl	army		gen.bryg.	OF-6	general brygady	https://upload.wikimedia.org/wikipedia/commons/3/36/Army-POL-OF-06.svg
+pl	army		gen.dyw.	OF-7	general dywizji	https://upload.wikimedia.org/wikipedia/commons/d/d8/Army-POL-OF-07.svg
+pl	army		gen.broni	OF-8	general broni	https://upload.wikimedia.org/wikipedia/commons/0/08/Army-POL-OF-08.svg
+pl	army		gen.	OF-9	general	https://upload.wikimedia.org/wikipedia/commons/0/04/Army-POL-OF-09.svg
+pl	navy		mar.	OR-1	marynarz	https://upload.wikimedia.org/wikipedia/commons/0/0d/POL_PMW_pagon1_marynarz.svg
+pl	navy		st.mar.	OR-2	starszy marynarz	https://upload.wikimedia.org/wikipedia/commons/3/30/POL_PMW_pagon1_starszy_marynarz.svg
+pl	navy		mat	OR-3	mat	https://upload.wikimedia.org/wikipedia/commons/3/37/POL_PMW_pagon1_mat.svg
+pl	navy		st.mat	OR-4	starszy mat	https://upload.wikimedia.org/wikipedia/commons/a/a8/POL_PMW_pagon1_starszy_mat.svg
+pl	navy		bsmt.	OR-4	bosmanmat	https://upload.wikimedia.org/wikipedia/commons/9/9e/POL_PMW_pagon1_bosmanmat.svg
+pl	navy		bsm.	OR-5	bosman	https://upload.wikimedia.org/wikipedia/commons/a/a9/POL_PMW_pagon1_bosman.svg
+pl	navy		st.bsm.	OR-6	starszy bosman	https://upload.wikimedia.org/wikipedia/commons/b/b0/POL_PMW_pagon1_starszy_bosman.svg
+pl	navy		ml.chor.mar.	OR-7	mlodszy chorazy marynarki	https://upload.wikimedia.org/wikipedia/commons/f/f6/POL_PMW_pagon1_m%C5%82odszy_chor%C4%85%C5%BCy_marynarki.svg
+pl	navy		chor.mar.	OR-8	chorazy marynarki	https://upload.wikimedia.org/wikipedia/commons/b/b8/POL_PMW_pagon1_chor%C4%85%C5%BCy_marynarki.svg
+pl	navy		st.chor.mar.	OR-9	starszy chorazy marynarki	https://upload.wikimedia.org/wikipedia/commons/6/6b/POL_PMW_pagon1_starszy_chor%C4%85%C5%BCy_marynarki.svg
+pl	navy		st.chor.szt.mar.	OR-9	starszy chorazy sztabowy marynarki	https://upload.wikimedia.org/wikipedia/commons/e/e1/POL_PMW_pagon1_starszy_chor%C4%85%C5%BCy_sztabowy_marynarki.svg
+pl	navy		ppor.mar.	OF-1	podporucznik marynarki	https://upload.wikimedia.org/wikipedia/commons/6/6c/POL_PMW_pagon1_podporucznik_marynarki.svg
+pl	navy		por.mar.	OF-1	porucznik marynarki	https://upload.wikimedia.org/wikipedia/commons/a/af/POL_PMW_pagon1_porucznik_marynarki.svg
+pl	navy		kpt.mar.	OF-2	kapitan marynarki	https://upload.wikimedia.org/wikipedia/commons/2/2a/POL_PMW_pagon1_kapitan_marynarki.svg
+pl	navy		kmdr.ppor.	OF-3	komandor podporucznik	https://upload.wikimedia.org/wikipedia/commons/3/3f/POL_PMW_pagon1_komandor_podporucznik.svg
+pl	navy		kmdr.por.	OF-4	komandor porucznik	https://upload.wikimedia.org/wikipedia/commons/2/28/POL_PMW_pagon1_komandor_porucznik.svg
+pl	navy		kmdr.	OF-5	komandor	https://upload.wikimedia.org/wikipedia/commons/c/c4/POL_PMW_pagon1_komandor.svg
+pl	navy		kadm.	OF-6	kontradmiral	https://upload.wikimedia.org/wikipedia/commons/2/23/POL_PMW_pagon1_kontradmira%C5%82.svg
+pl	navy		wadm.	OF-7	wiceadmiral	https://upload.wikimedia.org/wikipedia/commons/8/8c/POL_PMW_pagon1_wiceadmira%C5%82.svg
+pl	navy		adm.fl.	OF-8	admiral floty	https://upload.wikimedia.org/wikipedia/commons/2/24/POL_PMW_pagon1_admira%C5%82_floty.svg
+pl	navy		adm.	OF-9	admiral	https://upload.wikimedia.org/wikipedia/commons/9/98/POL_PMW_pagon1_admira%C5%82.svg
+us	af	E-1	AB	OR-1	Airman Basic	
+us	af	E-2	Amn	OR-2	Airman	https://upload.wikimedia.org/wikipedia/commons/f/f5/E2_USAF_AM.svg
+us	af	E-3	A1C	OR-3	Airman First Class	https://upload.wikimedia.org/wikipedia/commons/7/7d/E3_USAF_AM1.svg
+us	af	E-4	SrA	OR-4	Senior Airman	https://upload.wikimedia.org/wikipedia/commons/4/40/E4_USAF_SAM.svg
+us	af	E-5	SSgt	OR-5	Staff Sergeant	https://upload.wikimedia.org/wikipedia/commons/e/ea/E5_USAF_SSGT.svg
+us	af	E-6	TSgt	OR-6	Technical Sergeant	https://upload.wikimedia.org/wikipedia/commons/f/fc/E6_USAF_TSGT.svg
+us	af	E-7	MSgt	OR-7	Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/4/4e/E7a_USAF_MSGT.svg
+us	af	E-8	SMSgt	OR-8	Senior Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/8/8b/E8a_USAF_SMSGT.svg
+us	af	E-9	CMSgt	OR-9	Chief Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/e/ef/E9a_USAF_CMSGT.svg
+us	af	E-9	CCM	OR-9	Command Chief Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/3/36/E9c_USAF_CCMS.svg
+us	af	E-9	CMSAF	OR-9	Chief Master Sergeant of the Air Force	https://upload.wikimedia.org/wikipedia/commons/8/8d/E9d_USAF_CMSAF.svg
+us	af	O-1	2nd Lt	OF-1	Second Lieutenant	https://upload.wikimedia.org/wikipedia/commons/0/05/US-O1_insignia.svg
+us	af	O-2	1st Lt	OF-1	First Lieutenant	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O2_insignia.svg
+us	af	O-3	Capt	OF-2	Captain	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O3_insignia.svg
+us	af	O-4	Maj	OF-3	Major	https://upload.wikimedia.org/wikipedia/commons/8/8f/US-O4_insignia.svg
+us	af	O-5	Lt Col	OF-4	Lieutenant Colonel	https://upload.wikimedia.org/wikipedia/commons/6/6e/US-O5_insignia.svg
+us	af	O-6	Col	OF-5	Colonel	https://upload.wikimedia.org/wikipedia/commons/c/c5/US-O6_insignia.svg
+us	af	O-7	Brig Gen	OF-6	Brigadier General	https://upload.wikimedia.org/wikipedia/commons/2/23/US-O7_insignia.svg
+us	af	O-8	Maj Gen	OF-7	Major General	https://upload.wikimedia.org/wikipedia/commons/9/91/US-O8_insignia.svg
+us	af	O-9	Lt Gen	OF-8	Lieutenant General	https://upload.wikimedia.org/wikipedia/commons/d/da/US-O9_insignia.svg
+us	af	O-10	Gen	OF-9	General	https://upload.wikimedia.org/wikipedia/commons/4/40/US-O10_insignia.svg
+us	army	E-1	PV1	OR-1	Private	
+us	army	E-2	PV2	OR-2	Private	https://upload.wikimedia.org/wikipedia/commons/9/91/Army-USA-OR-02.svg
+us	army	E-3	PFC	OR-3	Private First Class	https://upload.wikimedia.org/wikipedia/commons/c/cc/Army-USA-OR-03.svg
+us	army	E-4	SPC	OR-4	Specialist	https://upload.wikimedia.org/wikipedia/commons/1/1c/Army-USA-OR-04b.svg
+us	army	E-4	CPL	OR-4	Corporal	https://upload.wikimedia.org/wikipedia/commons/a/a2/Army-USA-OR-04a.svg
+us	army	E-5	SGT	OR-5	Sergeant	https://upload.wikimedia.org/wikipedia/commons/2/27/Army-USA-OR-05.svg
+us	army	E-6	SSG	OR-6	Staff Sergeant	https://upload.wikimedia.org/wikipedia/commons/0/0b/Army-USA-OR-06.svg
+us	army	E-7	SFC	OR-7	Sergeant First Class	https://upload.wikimedia.org/wikipedia/commons/7/71/Army-USA-OR-07.svg
+us	army	E-8	MSG	OR-8	Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/8/8a/Army-USA-OR-08b.svg
+us	army	E-8	1SG	OR-8	First Sergeant	https://upload.wikimedia.org/wikipedia/commons/3/3c/Army-USA-OR-08a.svg
+us	army	E-9	SGM	OR-9	Sergeant Major	https://upload.wikimedia.org/wikipedia/commons/5/5d/Army-USA-OR-09c.svg
+us	army	E-9	CSM	OR-9	Command Sergeant Major	https://upload.wikimedia.org/wikipedia/commons/3/31/Army-USA-OR-09b.svg
+us	army	E-9	SMA	OR-9	Sergeant Major of the Army	https://upload.wikimedia.org/wikipedia/commons/f/f6/Army-USA-OR-09a.svg
+us	army	O-1	2LT	OF-1	Second Lieutenant	https://upload.wikimedia.org/wikipedia/commons/0/05/US-O1_insignia.svg
+us	army	O-2	1LT	OF-1	First Lieutenant	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O2_insignia.svg
+us	army	O-3	CPT	OF-2	Captain	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O3_insignia.svg
+us	army	O-4	MAJ	OF-3	Major	https://upload.wikimedia.org/wikipedia/commons/8/8f/US-O4_insignia.svg
+us	army	O-5	LTC	OF-4	Lieutenant Colonel	https://upload.wikimedia.org/wikipedia/commons/6/6e/US-O5_insignia.svg
+us	army	O-6	COL	OF-5	Colonel	https://upload.wikimedia.org/wikipedia/commons/c/c5/US-O6_insignia.svg
+us	army	O-7	BG	OF-6	Brigadier General	https://upload.wikimedia.org/wikipedia/commons/2/23/US-O7_insignia.svg
+us	army	O-8	MG	OF-7	Major General	https://upload.wikimedia.org/wikipedia/commons/9/91/US-O8_insignia.svg
+us	army	O-9	LG	OF-8	Lieutenant General	https://upload.wikimedia.org/wikipedia/commons/d/da/US-O9_insignia.svg
+us	army	O-10	GEN	OF-9	General	https://upload.wikimedia.org/wikipedia/commons/4/40/US-O10_insignia.svg
+us	army	W-1	W01	WO-1	Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/e/e3/US-Army-WO1.svg
+us	army	W-2	CW2	WO-2	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/d/de/US-Army-CW2.svg
+us	army	W-3	CW3	WO-3	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/2/2a/US-Army-CW3.svg
+us	army	W-4	CW4	WO-4	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/4/42/US-Army-CW4.svg
+us	army	W-5	CW5	WO-5	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/3/37/US-Army-CW5compare.svg
+us	marines	E-1	Pvt	OR-1	Private	
+us	marines	E-2	PFC	OR-2	Private First Class	https://upload.wikimedia.org/wikipedia/commons/1/17/USMC-E2.svg
+us	marines	E-3	LCpl	OR-3	Lance Corporal	https://upload.wikimedia.org/wikipedia/commons/4/4e/USMC-E3.svg
+us	marines	E-4	Cpl	OR-4	Corporal	https://upload.wikimedia.org/wikipedia/commons/2/24/USMC-E4.svg
+us	marines	E-5	Sgt	OR-5	Sergeant	https://upload.wikimedia.org/wikipedia/commons/6/69/USMC-E5.svg
+us	marines	E-6	SSgt	OR-6	Staff Sergeant	https://upload.wikimedia.org/wikipedia/commons/7/77/USMC-E6.svg
+us	marines	E-7	GySgt	OR-7	Gunnery Sergeant	https://upload.wikimedia.org/wikipedia/commons/f/f6/USMC-E7.svg
+us	marines	E-8	MSgt	OR-8	Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/3/3c/USMC-E8-MSG.svg
+us	marines	E-8	1stSgt	OR-8	First Sergeant	https://upload.wikimedia.org/wikipedia/commons/4/43/USMC-E8-1SG.svg
+us	marines	E-9	MGySgt	OR-9	Master Gunnery Sergeant	https://upload.wikimedia.org/wikipedia/commons/a/aa/USMC-E9-MGyS.svg
+us	marines	E-9	SgtMaj	OR-9	Sergeant Major	https://upload.wikimedia.org/wikipedia/commons/8/80/USMC-E9-SGM.svg
+us	marines	E-9	SgtMajMarCor	OR-9	Sergeant Major of the Marine Corps	https://upload.wikimedia.org/wikipedia/commons/3/38/USMC-E9-SGMMC.svg
+us	marines	O-1	2ndLt	OF-1	Second Lieutenant	https://upload.wikimedia.org/wikipedia/commons/0/05/US-O1_insignia.svg
+us	marines	O-2	1stLt	OF-1	First Lieutenant	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O2_insignia.svg
+us	marines	O-3	Capt	OF-2	Captain	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O3_insignia.svg
+us	marines	O-4	Maj	OF-3	Major	https://upload.wikimedia.org/wikipedia/commons/8/8f/US-O4_insignia.svg
+us	marines	O-5	LtCol	OF-4	Lieutenant Colonel	https://upload.wikimedia.org/wikipedia/commons/6/6e/US-O5_insignia.svg
+us	marines	O-6	Col	OF-5	Colonel	https://upload.wikimedia.org/wikipedia/commons/c/c5/US-O6_insignia.svg
+us	marines	O-7	BGen	OF-6	Brigadier General	https://upload.wikimedia.org/wikipedia/commons/2/23/US-O7_insignia.svg
+us	marines	O-8	MajGen	OF-7	Major General	https://upload.wikimedia.org/wikipedia/commons/9/91/US-O8_insignia.svg
+us	marines	O-9	LtGen	OF-8	Lieutenant General	https://upload.wikimedia.org/wikipedia/commons/d/da/US-O9_insignia.svg
+us	marines	O-10	Gen	OF-9	General	https://upload.wikimedia.org/wikipedia/commons/4/40/US-O10_insignia.svg
+us	marines	W-1	WO	WO-1	Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/c/c4/USMC_WO1.svg
+us	marines	W-2	CWO2	WO-2	Chief Warrant Officer-2	https://upload.wikimedia.org/wikipedia/commons/7/76/USMC_CWO2.svg
+us	marines	W-3	CWO3	WO-3	Chief Warrant Officer-3	https://upload.wikimedia.org/wikipedia/commons/6/6f/USMC_CWO3.svg
+us	marines	W-4	CWO4	WO-4	Chief Warrant Officer-4	https://upload.wikimedia.org/wikipedia/commons/1/16/USMC_CWO4.svg
+us	marines	W-5	CWO5	WO-5	Chief Warrant Officer-5	https://upload.wikimedia.org/wikipedia/commons/4/47/USMC_CWO5.svg
+us	navy	E-1	SR	OR-1	Seaman Recruit	
+us	navy	E-2	SA	OR-2	Seaman Apprentice	https://upload.wikimedia.org/wikipedia/commons/1/17/E2_SM_USN.png
+us	navy	E-3	SN	OR-3	Seaman	https://upload.wikimedia.org/wikipedia/commons/1/1e/E3_SM_USN.png
+us	navy	E-4	PO3	OR-4	Petty Officer Third Class	https://upload.wikimedia.org/wikipedia/commons/4/49/PO3_GC.png
+us	navy	E-5	PO2	OR-5	Petty Officer Second Class	https://upload.wikimedia.org/wikipedia/commons/f/fc/PO2_GC.png
+us	navy	E-6	PO1	OR-6	Petty Officer First Class	https://upload.wikimedia.org/wikipedia/commons/d/d7/PO1_GC.png
+us	navy	E-7	CPO	OR-7	Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/6/6a/CPO_GC.svg
+us	navy	E-8	SCPO	OR-8	Senior Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/c/cc/SCPO_GC.svg
+us	navy	E-9	MCPO	OR-9	Master Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/b/bd/MCPO_GC.svg
+us	navy	E-9	CMDCM	OR-9	Command Master Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/3/37/CMCPO.svg
+us	navy	E-9	FLTCM	OR-9	Fleet Master Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/c/cd/FMCPO.svg
+us	navy	E-9	FORCM	OR-9	Force Master Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/c/cd/FMCPO.svg
+us	navy	E-9	MCPON	OR-9	Master Chief Petty Officer of the Navy	https://upload.wikimedia.org/wikipedia/commons/b/be/MCPON.svg
+us	navy	O-1	ENS	OF-1	Ensign	https://upload.wikimedia.org/wikipedia/commons/0/05/US-O1_insignia.svg
+us	navy	O-2	LTJG	OF-1	Lieutenant Junior Grade	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O2_insignia.svg
+us	navy	O-3	LT	OF-2	Lieutenant	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O3_insignia.svg
+us	navy	O-4	LCDR	OF-3	Lieutenant Commander	https://upload.wikimedia.org/wikipedia/commons/8/8f/US-O4_insignia.svg
+us	navy	O-5	CDR	OF-4	Commander	https://upload.wikimedia.org/wikipedia/commons/6/6e/US-O5_insignia.svg
+us	navy	O-6	CAPT	OF-5	Captain	https://upload.wikimedia.org/wikipedia/commons/c/c5/US-O6_insignia.svg
+us	navy	O-7	RDML	OF-6	Rear Admiral (Lower Half)	https://upload.wikimedia.org/wikipedia/commons/2/23/US-O7_insignia.svg
+us	navy	O-8	RADM	OF-7	Rear Admiral (Upper Half)	https://upload.wikimedia.org/wikipedia/commons/9/91/US-O8_insignia.svg
+us	navy	O-9	VADM	OF-8	Vice Admiral	https://upload.wikimedia.org/wikipedia/commons/d/da/US-O9_insignia.svg
+us	navy	O-10	ADM	OF-9	Admiral	https://upload.wikimedia.org/wikipedia/commons/4/40/US-O10_insignia.svg
+us	navy	W-2	CWO2	WO-2	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/4/44/US_Navy_CW2_insignia.svg
+us	navy	W-3	CWO3	WO-3	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/4/47/US_Navy_CW3_insignia.svg
+us	navy	W-4	CWO4	WO-4	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/b/b0/US_Navy_CW4_insignia.svg
+us	navy	W-5	CWO5	WO-5	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/2/2c/US_Navy_CW5_insignia.svg
