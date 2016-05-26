@@ -10,7 +10,3 @@ E-8	SMSgt	OR-8	Senior Master Sergeant	https://upload.wikimedia.org/wikipedia/com
 E-9	CMSgt	OR-9	Chief Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/e/ef/E9a_USAF_CMSGT.svg
 E-9	CCM	OR-9	Command Chief Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/3/36/E9c_USAF_CCMS.svg
 E-9	CMSAF	OR-9	Chief Master Sergeant of the Air Force	https://upload.wikimedia.org/wikipedia/commons/8/8d/E9d_USAF_CMSAF.svg
-
-# First sergeant is not a separate rank, but a diamond is inserted into the upper field.
-# TODO: Figure out how to handle the case where the rank is the same but there may be
-# two separate insignia (return an array of images?).
