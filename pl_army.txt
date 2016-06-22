@@ -1,0 +1,24 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+	szer.	OR-1	szeregowy	https://upload.wikimedia.org/wikipedia/commons/0/0d/Army-POL-OR-01.svg
+	st.szer.	OR-2	starszy szeregowy	https://upload.wikimedia.org/wikipedia/commons/d/d6/Army-POL-OR-02.svg
+	kpr.	OR-3	kapral	https://upload.wikimedia.org/wikipedia/commons/e/e2/Army-POL-OR-03.svg
+	st.kpr.	OR-4	starszy kapral	https://upload.wikimedia.org/wikipedia/commons/7/71/Army-POL-OR-04b.svg
+	plut.	OR-4	plutonowy	https://upload.wikimedia.org/wikipedia/commons/b/b8/Army-POL-OR-04a.svg
+	sierz.	OR-5	sierzant	https://upload.wikimedia.org/wikipedia/commons/6/6e/Army-POL-OR-05.svg
+	st.sierz.	OR-6	starszy sierzant	https://upload.wikimedia.org/wikipedia/commons/1/1b/Army-POL-OR-06.svg
+	ml.chor.	OR-7	mlodszy chorazy	https://upload.wikimedia.org/wikipedia/commons/6/67/Army-POL-OR-07.svg
+	chor.	OR-8	chorazy	https://upload.wikimedia.org/wikipedia/commons/3/32/Army-POL-OR-08.svg
+	st.chor.	OR-9	starszy chorazy	https://upload.wikimedia.org/wikipedia/commons/5/52/Army-POL-OR-09b.svg
+	st.chor.szt.	OR-9	starszy chorazy sztabowy	https://upload.wikimedia.org/wikipedia/commons/1/1c/Army-POL-OR-09a.svg
+	ppor.	OF-1	podporucznik	https://upload.wikimedia.org/wikipedia/commons/4/47/Army-POL-OF-01b.svg
+	por.	OF-1	porucznik	https://upload.wikimedia.org/wikipedia/commons/c/cd/Army-POL-OF-01a.svg
+	kpt.	OF-2	kapitan	https://upload.wikimedia.org/wikipedia/commons/a/a0/Army-POL-OF-02.svg
+	mjr.	OF-3	major	https://upload.wikimedia.org/wikipedia/commons/0/00/Army-POL-OF-03.svg
+	pplk.	OF-4	podpulkownik	https://upload.wikimedia.org/wikipedia/commons/3/39/Army-POL-OF-04.svg
+	plk.	OF-5	pulkownik	https://upload.wikimedia.org/wikipedia/commons/c/c4/Army-POL-OF-05.svg
+	gen.bryg.	OF-6	general brygady	https://upload.wikimedia.org/wikipedia/commons/3/36/Army-POL-OF-06.svg
+	gen.dyw.	OF-7	general dywizji	https://upload.wikimedia.org/wikipedia/commons/d/d8/Army-POL-OF-07.svg
+	gen.broni	OF-8	general broni	https://upload.wikimedia.org/wikipedia/commons/0/08/Army-POL-OF-08.svg
+	gen.	OF-9	general	https://upload.wikimedia.org/wikipedia/commons/0/04/Army-POL-OF-09.svg
+
+http://en.wikipedia.org/wiki/Polish_Armed_Forces_rank_insignia

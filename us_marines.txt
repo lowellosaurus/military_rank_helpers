@@ -1,0 +1,30 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+E-1	Pvt	OR-1	Private	
+E-2	PFC	OR-2	Private First Class	https://upload.wikimedia.org/wikipedia/commons/1/17/USMC-E2.svg
+E-3	LCpl	OR-3	Lance Corporal	https://upload.wikimedia.org/wikipedia/commons/4/4e/USMC-E3.svg
+E-4	Cpl	OR-4	Corporal	https://upload.wikimedia.org/wikipedia/commons/2/24/USMC-E4.svg
+E-5	Sgt	OR-5	Sergeant	https://upload.wikimedia.org/wikipedia/commons/6/69/USMC-E5.svg
+E-6	SSgt	OR-6	Staff Sergeant	https://upload.wikimedia.org/wikipedia/commons/7/77/USMC-E6.svg
+E-7	GySgt	OR-7	Gunnery Sergeant	https://upload.wikimedia.org/wikipedia/commons/f/f6/USMC-E7.svg
+E-8	MSgt	OR-8	Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/3/3c/USMC-E8-MSG.svg
+E-8	1stSgt	OR-8	First Sergeant	https://upload.wikimedia.org/wikipedia/commons/4/43/USMC-E8-1SG.svg
+E-9	MGySgt	OR-9	Master Gunnery Sergeant	https://upload.wikimedia.org/wikipedia/commons/a/aa/USMC-E9-MGyS.svg
+E-9	SgtMaj	OR-9	Sergeant Major	https://upload.wikimedia.org/wikipedia/commons/8/80/USMC-E9-SGM.svg
+E-9	SgtMajMarCor	OR-9	Sergeant Major of the Marine Corps	https://upload.wikimedia.org/wikipedia/commons/3/38/USMC-E9-SGMMC.svg
+W-1	WO	WO-1	Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/c/c4/USMC_WO1.svg
+W-2	CWO2	WO-2	Chief Warrant Officer-2	https://upload.wikimedia.org/wikipedia/commons/7/76/USMC_CWO2.svg
+W-3	CWO3	WO-3	Chief Warrant Officer-3	https://upload.wikimedia.org/wikipedia/commons/6/6f/USMC_CWO3.svg
+W-4	CWO4	WO-4	Chief Warrant Officer-4	https://upload.wikimedia.org/wikipedia/commons/1/16/USMC_CWO4.svg
+W-5	CWO5	WO-5	Chief Warrant Officer-5	https://upload.wikimedia.org/wikipedia/commons/4/47/USMC_CWO5.svg
+O-1	2ndLt	OF-1	Second Lieutenant	https://upload.wikimedia.org/wikipedia/commons/0/05/US-O1_insignia.svg
+O-2	1stLt	OF-1	First Lieutenant	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O2_insignia.svg
+O-3	Capt	OF-2	Captain	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O3_insignia.svg
+O-4	Maj	OF-3	Major	https://upload.wikimedia.org/wikipedia/commons/8/8f/US-O4_insignia.svg
+O-5	LtCol	OF-4	Lieutenant Colonel	https://upload.wikimedia.org/wikipedia/commons/6/6e/US-O5_insignia.svg
+O-6	Col	OF-5	Colonel	https://upload.wikimedia.org/wikipedia/commons/c/c5/US-O6_insignia.svg
+O-7	BGen	OF-6	Brigadier General	https://upload.wikimedia.org/wikipedia/commons/2/23/US-O7_insignia.svg
+O-8	MajGen	OF-7	Major General	https://upload.wikimedia.org/wikipedia/commons/9/91/US-O8_insignia.svg
+O-9	LtGen	OF-8	Lieutenant General	https://upload.wikimedia.org/wikipedia/commons/d/da/US-O9_insignia.svg
+O-10	Gen	OF-9	General	https://upload.wikimedia.org/wikipedia/commons/4/40/US-O10_insignia.svg
+
+https://en.wikipedia.org/wiki/United_States_Marine_Corps_rank_insignia

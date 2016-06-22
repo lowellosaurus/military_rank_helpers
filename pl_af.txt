@@ -1,0 +1,24 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+	szer.	OR-1	szeregowy	https://upload.wikimedia.org/wikipedia/commons/6/69/Rank_insignia_of_szeregowy_of_the_Air_Force_of_Poland.svg
+	st.szer.	OR-2	starszy szeregowy	https://upload.wikimedia.org/wikipedia/commons/6/62/Rank_insignia_of_starszy_szeregowy_of_the_Air_Force_of_Poland.svg
+	kpr.	OR-3	kapral	https://upload.wikimedia.org/wikipedia/commons/b/ba/Rank_insignia_of_kapral_of_the_Air_Force_of_Poland.svg
+	st.kpr.	OR-4	starszy kapral	https://upload.wikimedia.org/wikipedia/commons/2/22/Rank_insignia_of_starszy_kapral_of_the_Air_Force_of_Poland.svg
+	plut.	OR-4	plutonowy	https://upload.wikimedia.org/wikipedia/commons/e/e9/Rank_insignia_of_plutonowy_of_the_Air_Force_of_Poland.svg
+	sierz.	OR-5	sierzant	https://upload.wikimedia.org/wikipedia/commons/8/82/Rank_insignia_of_sier%C5%BCant_of_the_Air_Force_of_Poland.svg
+	st.sierz.	OR-6	starszy sierzant	https://upload.wikimedia.org/wikipedia/commons/b/bc/Rank_insignia_of_starszy_sier%C5%BCant_of_the_Air_Force_of_Poland.svg
+	ml.chor.	OR-7	mlodszy chorazy	https://upload.wikimedia.org/wikipedia/commons/5/55/Rank_insignia_of_m%C5%82odszy_chor%C4%85%C5%BCy_of_the_Air_Force_of_Poland.svg
+	chor.	OR-8	chorazy	https://upload.wikimedia.org/wikipedia/commons/f/f4/Rank_insignia_of_chor%C4%85%C5%BCy_of_the_Air_Force_of_Poland.svg
+	st.chor.	OR-9	starszy chorazy	https://upload.wikimedia.org/wikipedia/commons/d/de/Rank_insignia_of_starszy_chor%C4%85%C5%BCy_of_the_Air_Force_of_Poland.svg
+	st.chor.szt.	OR-9	starszy chorazy sztabowy	https://upload.wikimedia.org/wikipedia/commons/5/56/Rank_insignia_of_starszy_chor%C4%85%C5%BCy_sztabowy_of_the_Air_Force_of_Poland.svg
+	ppor.	OF-1	podporucznik	https://upload.wikimedia.org/wikipedia/commons/f/fe/Rank_insignia_of_podporucznik_of_the_Air_Force_of_Poland.svg
+	por.	OF-1	porucznik	https://upload.wikimedia.org/wikipedia/commons/c/c8/Rank_insignia_of_porucznik_of_the_Air_Force_of_Poland.svg
+	kpt.	OF-2	kapitan	https://upload.wikimedia.org/wikipedia/commons/a/ad/Rank_insignia_of_kapitan_of_the_Air_Force_of_Poland.svg
+	mjr.	OF-3	major	https://upload.wikimedia.org/wikipedia/commons/1/1b/Rank_insignia_of_major_of_the_Air_Force_of_Poland.svg
+	pplk.	OF-4	podpulkownik	https://upload.wikimedia.org/wikipedia/commons/4/48/Rank_insignia_of_podpu%C5%82kownik_of_the_Air_Force_of_Poland.svg
+	plk.	OF-5	pulkownik	https://upload.wikimedia.org/wikipedia/commons/8/80/Rank_insignia_of_pu%C5%82kownik_of_the_Air_Force_of_Poland.svg
+	gen.bryg.	OF-6	general brygady	https://upload.wikimedia.org/wikipedia/commons/5/58/Rank_insignia_of_genera%C5%82_brygady_of_the_Air_Force_of_Poland.svg
+	gen.dyw.	OF-7	general dywizji	https://upload.wikimedia.org/wikipedia/commons/e/e2/Rank_insignia_of_genera%C5%82_dywizji_of_the_Air_Force_of_Poland.svg
+	gen.broni	OF-8	general broni	https://upload.wikimedia.org/wikipedia/commons/0/05/Rank_insignia_of_genera%C5%82_broni_of_the_Air_Force_of_Poland.svg
+	gen.	OF-9	general	https://upload.wikimedia.org/wikipedia/commons/1/17/Rank_insignia_of_genera%C5%82_of_the_Air_Force_of_Poland.svg
+
+http://en.wikipedia.org/wiki/Polish_Armed_Forces_rank_insignia

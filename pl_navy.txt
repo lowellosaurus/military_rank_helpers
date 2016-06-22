@@ -1,0 +1,24 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+	mar.	OR-1	marynarz	https://upload.wikimedia.org/wikipedia/commons/0/0d/POL_PMW_pagon1_marynarz.svg
+	st.mar.	OR-2	starszy marynarz	https://upload.wikimedia.org/wikipedia/commons/3/30/POL_PMW_pagon1_starszy_marynarz.svg
+	mat	OR-3	mat	https://upload.wikimedia.org/wikipedia/commons/3/37/POL_PMW_pagon1_mat.svg
+	st.mat	OR-4	starszy mat	https://upload.wikimedia.org/wikipedia/commons/a/a8/POL_PMW_pagon1_starszy_mat.svg
+	bsmt.	OR-4	bosmanmat	https://upload.wikimedia.org/wikipedia/commons/9/9e/POL_PMW_pagon1_bosmanmat.svg
+	bsm.	OR-5	bosman	https://upload.wikimedia.org/wikipedia/commons/a/a9/POL_PMW_pagon1_bosman.svg
+	st.bsm.	OR-6	starszy bosman	https://upload.wikimedia.org/wikipedia/commons/b/b0/POL_PMW_pagon1_starszy_bosman.svg
+	ml.chor.mar.	OR-7	mlodszy chorazy marynarki	https://upload.wikimedia.org/wikipedia/commons/f/f6/POL_PMW_pagon1_m%C5%82odszy_chor%C4%85%C5%BCy_marynarki.svg
+	chor.mar.	OR-8	chorazy marynarki	https://upload.wikimedia.org/wikipedia/commons/b/b8/POL_PMW_pagon1_chor%C4%85%C5%BCy_marynarki.svg
+	st.chor.mar.	OR-9	starszy chorazy marynarki	https://upload.wikimedia.org/wikipedia/commons/6/6b/POL_PMW_pagon1_starszy_chor%C4%85%C5%BCy_marynarki.svg
+	st.chor.szt.mar.	OR-9	starszy chorazy sztabowy marynarki	https://upload.wikimedia.org/wikipedia/commons/e/e1/POL_PMW_pagon1_starszy_chor%C4%85%C5%BCy_sztabowy_marynarki.svg
+	ppor.mar.	OF-1	podporucznik marynarki	https://upload.wikimedia.org/wikipedia/commons/6/6c/POL_PMW_pagon1_podporucznik_marynarki.svg
+	por.mar.	OF-1	porucznik marynarki	https://upload.wikimedia.org/wikipedia/commons/a/af/POL_PMW_pagon1_porucznik_marynarki.svg
+	kpt.mar.	OF-2	kapitan marynarki	https://upload.wikimedia.org/wikipedia/commons/2/2a/POL_PMW_pagon1_kapitan_marynarki.svg
+	kmdr.ppor.	OF-3	komandor podporucznik	https://upload.wikimedia.org/wikipedia/commons/3/3f/POL_PMW_pagon1_komandor_podporucznik.svg
+	kmdr.por.	OF-4	komandor porucznik	https://upload.wikimedia.org/wikipedia/commons/2/28/POL_PMW_pagon1_komandor_porucznik.svg
+	kmdr.	OF-5	komandor	https://upload.wikimedia.org/wikipedia/commons/c/c4/POL_PMW_pagon1_komandor.svg
+	kadm.	OF-6	kontradmiral	https://upload.wikimedia.org/wikipedia/commons/2/23/POL_PMW_pagon1_kontradmira%C5%82.svg
+	wadm.	OF-7	wiceadmiral	https://upload.wikimedia.org/wikipedia/commons/8/8c/POL_PMW_pagon1_wiceadmira%C5%82.svg
+	adm.fl.	OF-8	admiral floty	https://upload.wikimedia.org/wikipedia/commons/2/24/POL_PMW_pagon1_admira%C5%82_floty.svg
+	adm.	OF-9	admiral	https://upload.wikimedia.org/wikipedia/commons/9/98/POL_PMW_pagon1_admira%C5%82.svg
+
+http://en.wikipedia.org/wiki/Polish_Armed_Forces_rank_insignia

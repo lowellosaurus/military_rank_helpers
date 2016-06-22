@@ -1,0 +1,24 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+E-1	AB	OR-1	Airman Basic	
+E-2	Amn	OR-2	Airman	https://upload.wikimedia.org/wikipedia/commons/f/f5/E2_USAF_AM.svg
+E-3	A1C	OR-3	Airman First Class	https://upload.wikimedia.org/wikipedia/commons/7/7d/E3_USAF_AM1.svg
+E-4	SrA	OR-4	Senior Airman	https://upload.wikimedia.org/wikipedia/commons/4/40/E4_USAF_SAM.svg
+E-5	SSgt	OR-5	Staff Sergeant	https://upload.wikimedia.org/wikipedia/commons/e/ea/E5_USAF_SSGT.svg
+E-6	TSgt	OR-6	Technical Sergeant	https://upload.wikimedia.org/wikipedia/commons/f/fc/E6_USAF_TSGT.svg
+E-7	MSgt	OR-7	Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/4/4e/E7a_USAF_MSGT.svg
+E-8	SMSgt	OR-8	Senior Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/8/8b/E8a_USAF_SMSGT.svg
+E-9	CMSgt	OR-9	Chief Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/e/ef/E9a_USAF_CMSGT.svg
+E-9	CCM	OR-9	Command Chief Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/3/36/E9c_USAF_CCMS.svg
+E-9	CMSAF	OR-9	Chief Master Sergeant of the Air Force	https://upload.wikimedia.org/wikipedia/commons/8/8d/E9d_USAF_CMSAF.svg
+O-1	2nd Lt	OF-1	Second Lieutenant	https://upload.wikimedia.org/wikipedia/commons/0/05/US-O1_insignia.svg
+O-2	1st Lt	OF-1	First Lieutenant	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O2_insignia.svg
+O-3	Capt	OF-2	Captain	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O3_insignia.svg
+O-4	Maj	OF-3	Major	https://upload.wikimedia.org/wikipedia/commons/8/8f/US-O4_insignia.svg
+O-5	Lt Col	OF-4	Lieutenant Colonel	https://upload.wikimedia.org/wikipedia/commons/6/6e/US-O5_insignia.svg
+O-6	Col	OF-5	Colonel	https://upload.wikimedia.org/wikipedia/commons/c/c5/US-O6_insignia.svg
+O-7	Brig Gen	OF-6	Brigadier General	https://upload.wikimedia.org/wikipedia/commons/2/23/US-O7_insignia.svg
+O-8	Maj Gen	OF-7	Major General	https://upload.wikimedia.org/wikipedia/commons/9/91/US-O8_insignia.svg
+O-9	Lt Gen	OF-8	Lieutenant General	https://upload.wikimedia.org/wikipedia/commons/d/da/US-O9_insignia.svg
+O-10	Gen	OF-9	General	https://upload.wikimedia.org/wikipedia/commons/4/40/US-O10_insignia.svg
+
+http://en.wikipedia.org/wiki/United_States_Air_Force_enlisted_rank_insignia

@@ -1,0 +1,30 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+E-1	SR	OR-1	Seaman Recruit	
+E-2	SA	OR-2	Seaman Apprentice	https://upload.wikimedia.org/wikipedia/commons/1/17/E2_SM_USN.png
+E-3	SN	OR-3	Seaman	https://upload.wikimedia.org/wikipedia/commons/1/1e/E3_SM_USN.png
+E-4	PO3	OR-4	Petty Officer Third Class	https://upload.wikimedia.org/wikipedia/commons/4/49/PO3_GC.png
+E-5	PO2	OR-5	Petty Officer Second Class	https://upload.wikimedia.org/wikipedia/commons/f/fc/PO2_GC.png
+E-6	PO1	OR-6	Petty Officer First Class	https://upload.wikimedia.org/wikipedia/commons/d/d7/PO1_GC.png
+E-7	CPO	OR-7	Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/6/6a/CPO_GC.svg
+E-8	SCPO	OR-8	Senior Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/c/cc/SCPO_GC.svg
+E-9	MCPO	OR-9	Master Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/b/bd/MCPO_GC.svg
+E-9	CMDCM	OR-9	Command Master Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/3/37/CMCPO.svg
+E-9	FLTCM	OR-9	Fleet Master Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/c/cd/FMCPO.svg
+E-9	FORCM	OR-9	Force Master Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/c/cd/FMCPO.svg
+E-9	MCPON	OR-9	Master Chief Petty Officer of the Navy	https://upload.wikimedia.org/wikipedia/commons/b/be/MCPON.svg
+W-2	CWO2	WO-2	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/4/44/US_Navy_CW2_insignia.svg
+W-3	CWO3	WO-3	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/4/47/US_Navy_CW3_insignia.svg
+W-4	CWO4	WO-4	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/b/b0/US_Navy_CW4_insignia.svg
+W-5	CWO5	WO-5	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/2/2c/US_Navy_CW5_insignia.svg
+O-1	ENS	OF-1	Ensign	https://upload.wikimedia.org/wikipedia/commons/0/05/US-O1_insignia.svg
+O-2	LTJG	OF-1	Lieutenant Junior Grade	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O2_insignia.svg
+O-3	LT	OF-2	Lieutenant	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O3_insignia.svg
+O-4	LCDR	OF-3	Lieutenant Commander	https://upload.wikimedia.org/wikipedia/commons/8/8f/US-O4_insignia.svg
+O-5	CDR	OF-4	Commander	https://upload.wikimedia.org/wikipedia/commons/6/6e/US-O5_insignia.svg
+O-6	CAPT	OF-5	Captain	https://upload.wikimedia.org/wikipedia/commons/c/c5/US-O6_insignia.svg
+O-7	RDML	OF-6	Rear Admiral (Lower Half)	https://upload.wikimedia.org/wikipedia/commons/2/23/US-O7_insignia.svg
+O-8	RADM	OF-7	Rear Admiral (Upper Half)	https://upload.wikimedia.org/wikipedia/commons/9/91/US-O8_insignia.svg
+O-9	VADM	OF-8	Vice Admiral	https://upload.wikimedia.org/wikipedia/commons/d/da/US-O9_insignia.svg
+O-10	ADM	OF-9	Admiral	https://upload.wikimedia.org/wikipedia/commons/4/40/US-O10_insignia.svg
+
+https://en.wikipedia.org/wiki/List_of_United_States_Navy_enlisted_rates

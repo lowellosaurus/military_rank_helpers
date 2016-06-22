@@ -1,0 +1,31 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+E-1	PV1	OR-1	Private	
+E-2	PV2	OR-2	Private	https://upload.wikimedia.org/wikipedia/commons/9/91/Army-USA-OR-02.svg
+E-3	PFC	OR-3	Private First Class	https://upload.wikimedia.org/wikipedia/commons/c/cc/Army-USA-OR-03.svg
+E-4	SPC	OR-4	Specialist	https://upload.wikimedia.org/wikipedia/commons/1/1c/Army-USA-OR-04b.svg
+E-4	CPL	OR-4	Corporal	https://upload.wikimedia.org/wikipedia/commons/a/a2/Army-USA-OR-04a.svg
+E-5	SGT	OR-5	Sergeant	https://upload.wikimedia.org/wikipedia/commons/2/27/Army-USA-OR-05.svg
+E-6	SSG	OR-6	Staff Sergeant	https://upload.wikimedia.org/wikipedia/commons/0/0b/Army-USA-OR-06.svg
+E-7	SFC	OR-7	Sergeant First Class	https://upload.wikimedia.org/wikipedia/commons/7/71/Army-USA-OR-07.svg
+E-8	MSG	OR-8	Master Sergeant	https://upload.wikimedia.org/wikipedia/commons/8/8a/Army-USA-OR-08b.svg
+E-8	1SG	OR-8	First Sergeant	https://upload.wikimedia.org/wikipedia/commons/3/3c/Army-USA-OR-08a.svg
+E-9	SGM	OR-9	Sergeant Major	https://upload.wikimedia.org/wikipedia/commons/5/5d/Army-USA-OR-09c.svg
+E-9	CSM	OR-9	Command Sergeant Major	https://upload.wikimedia.org/wikipedia/commons/3/31/Army-USA-OR-09b.svg
+E-9	SMA	OR-9	Sergeant Major of the Army	https://upload.wikimedia.org/wikipedia/commons/f/f6/Army-USA-OR-09a.svg
+W-1	W01	WO-1	Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/e/e3/US-Army-WO1.svg
+W-2	CW2	WO-2	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/d/de/US-Army-CW2.svg
+W-3	CW3	WO-3	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/2/2a/US-Army-CW3.svg
+W-4	CW4	WO-4	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/4/42/US-Army-CW4.svg
+W-5	CW5	WO-5	Chief Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/3/37/US-Army-CW5compare.svg
+O-1	2LT	OF-1	Second Lieutenant	https://upload.wikimedia.org/wikipedia/commons/0/05/US-O1_insignia.svg
+O-2	1LT	OF-1	First Lieutenant	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O2_insignia.svg
+O-3	CPT	OF-2	Captain	https://upload.wikimedia.org/wikipedia/commons/7/72/US-O3_insignia.svg
+O-4	MAJ	OF-3	Major	https://upload.wikimedia.org/wikipedia/commons/8/8f/US-O4_insignia.svg
+O-5	LTC	OF-4	Lieutenant Colonel	https://upload.wikimedia.org/wikipedia/commons/6/6e/US-O5_insignia.svg
+O-6	COL	OF-5	Colonel	https://upload.wikimedia.org/wikipedia/commons/c/c5/US-O6_insignia.svg
+O-7	BG	OF-6	Brigadier General	https://upload.wikimedia.org/wikipedia/commons/2/23/US-O7_insignia.svg
+O-8	MG	OF-7	Major General	https://upload.wikimedia.org/wikipedia/commons/9/91/US-O8_insignia.svg
+O-9	LG	OF-8	Lieutenant General	https://upload.wikimedia.org/wikipedia/commons/d/da/US-O9_insignia.svg
+O-10	GEN	OF-9	General	https://upload.wikimedia.org/wikipedia/commons/4/40/US-O10_insignia.svg
+
+http://wikipedia.org/wiki/United_States_Army_enlisted_rank_insignia
