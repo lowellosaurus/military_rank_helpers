@@ -7,7 +7,6 @@ use YAML qw(Bless Dump);
 
 # Collect all data in a hashref before dumping it to YAML. There's probably a
 # more direct way of doing this, but this is easy enough.
-# NOTE: This only dumps the data, still need to add metadata by hand.
 my $data = {};
 
 # Run this script ($>perl txt2yml.pl > military_rank.yml) from main directory. Expect all data files
