@@ -17,6 +17,9 @@ foreach my $filename (@files) {
     my ($country, $branch) = $filename =~ qr/(\w+)_(\w+).txt/;
     die "Could not get country or branch from file $filename"
         unless $country && $branch;
+        
+    # Data files use "af" to indicate air force while the module expects "air_force".
+    $branch = "air_force" if $branch eq "af";
 
     open my $infile_fh, '<', $filename or die $!;
 
