@@ -1,0 +1,20 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+			Seaman 2
+			Seaman 1
+			Leading Seaman
+			Petty Officer
+			Chief Petty Officer	https://upload.wikimedia.org/wikipedia/commons/9/98/CPO.png
+			Master Chief Petty Officer 2nd Class	https://upload.wikimedia.org/wikipedia/commons/8/81/MCPO-II.png
+			Master Chief Petty Officer 1st Class	https://upload.wikimedia.org/wikipedia/commons/6/6d/MCPO-I.png
+		OF-1	Sublieutenant	https://upload.wikimedia.org/wikipedia/commons/c/c0/IN_Sublieutenant.png
+		OF-2	Lieutenant	https://upload.wikimedia.org/wikipedia/commons/c/ca/IN_Lieutenant.png
+		OF-3	Lieutenant Commander	https://upload.wikimedia.org/wikipedia/commons/9/94/IN_Lieutenant_Commander.png
+		OF-4	Commander	https://upload.wikimedia.org/wikipedia/commons/c/cc/IN_Commander.png
+		OF-5	Captain	https://upload.wikimedia.org/wikipedia/commons/7/7b/IN_Captain.png
+		OF-6	Commodore	https://upload.wikimedia.org/wikipedia/commons/3/34/IN_Commodore.png
+		OF-7	Rear Admiral	https://upload.wikimedia.org/wikipedia/commons/8/8b/IN_Rear_Admiral_Shoulder_curl.png
+		OF-8	Vice Admiral	https://upload.wikimedia.org/wikipedia/commons/7/73/IN_Vice_Admiral_Shoulder_curl.png
+		OF-9	Admiral	https://upload.wikimedia.org/wikipedia/commons/0/0c/IN_Admiral_Shoulder_curl.png
+		OF-10	Admiral of the Fleet	https://upload.wikimedia.org/wikipedia/commons/b/b0/IN_Admiral_of_the_NAVY_Shoulder_curl.png
+
+https://en.wikipedia.org/wiki/Naval_ranks_and_insignia_of_India

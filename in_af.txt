@@ -1,0 +1,20 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+			Aircraftsman	https://upload.wikimedia.org/wikipedia/commons/9/94/IAF_AC_Arm.png
+			Leading Aircraftsman	https://upload.wikimedia.org/wikipedia/commons/9/91/IAF_LAC_Arm.png
+			Corporal	https://upload.wikimedia.org/wikipedia/commons/3/32/IAF_Cpl_Arm.png
+			Sergeant	https://upload.wikimedia.org/wikipedia/commons/9/99/IAF_Sgt_Arm.png
+			Junior Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/c/c7/IAF_JWO_Shoulder.png
+			Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/e/e3/IAF_WO_Shoulder.png
+			Master Warrant Officer	https://upload.wikimedia.org/wikipedia/commons/8/8c/IAF_MWO_Shoulder.png
+		OF-1	Flying Officer	https://upload.wikimedia.org/wikipedia/commons/6/64/Flying_Officer_of_IAF.png
+		OF-2	Flying Lieutenant	https://upload.wikimedia.org/wikipedia/commons/d/df/Flight_Lieutenant_of_IAF.png
+		OF-3	Squadron Leader	https://upload.wikimedia.org/wikipedia/commons/e/ec/Squadron_Leader_of_IAF.png
+		OF-4	Wing Commander	https://upload.wikimedia.org/wikipedia/commons/2/22/Wing_Commander_of_IAF.png
+		OF-5	Group Captain	https://upload.wikimedia.org/wikipedia/commons/f/f7/Group_Captain_of_IAF.png
+		OF-6	Air Commodore	https://upload.wikimedia.org/wikipedia/commons/e/e9/Air_Commodore_of_IAF.png
+		OF-7	Air Vice Marshal	https://upload.wikimedia.org/wikipedia/commons/0/0d/Air_Vice_Marshal_of_IAF.png
+		OF-8	Air Marshal	https://upload.wikimedia.org/wikipedia/commons/a/ac/Air_Marshal_of_IAF.png
+		OF-9	Air Chief Marshal	https://upload.wikimedia.org/wikipedia/commons/4/4b/Air_Chief_Marshal_of_IAF.png
+		OF-10	Marshal of the Air Force	https://upload.wikimedia.org/wikipedia/commons/a/a1/Marshal_of_the_IAF.svg
+
+https://en.wikipedia.org/wiki/Air_Force_ranks_and_insignia_of_India

@@ -1,0 +1,20 @@
+DoD Grade	Abbreviation	NATO Code	Title	Image URL
+			Sepoy
+			Lance Naik	https://upload.wikimedia.org/wikipedia/commons/2/20/Indian_Army_Lance_Naik.gif
+			Naik	https://upload.wikimedia.org/wikipedia/commons/9/97/Indian_Army_Naik.gif
+			Havildar	https://upload.wikimedia.org/wikipedia/commons/0/02/Indian_Army_Havildar.gif
+			Naib Subedar	https://upload.wikimedia.org/wikipedia/commons/3/37/Naib_Subedar_-_Naib_Risaldar_of_the_Indian_Army.svg
+			Subedar	https://upload.wikimedia.org/wikipedia/commons/f/f4/Subedar_-_Risaldar_of_the_Indian_Army.svg
+			Subedar Major	https://upload.wikimedia.org/wikipedia/commons/e/ea/Subedar_Major_-_Risaldar_Major_of_the_Indian_Army.svg
+		OF-1	Lieutenant	https://upload.wikimedia.org/wikipedia/commons/c/c2/Lieutenant_of_the_Indian_Army.svg
+		OF-2	Captain	https://upload.wikimedia.org/wikipedia/commons/0/04/Captain_of_the_Indian_Army.svg
+		OF-3	Major	https://upload.wikimedia.org/wikipedia/commons/e/e3/Major_of_the_Indian_Army.svg
+		OF-4	Lieutenant Colonel	https://upload.wikimedia.org/wikipedia/commons/7/7f/Lieutenant_Colonel_of_the_Indian_Army.svg
+		OF-5	Colonel	https://upload.wikimedia.org/wikipedia/commons/0/00/Colonel_of_the_Indian_Army.svg
+		OF-6	Brigadier	https://upload.wikimedia.org/wikipedia/commons/a/ac/Brigadier_of_the_Indian_Army.svg
+		OF-7	Major General	https://upload.wikimedia.org/wikipedia/commons/9/99/Major_General_of_the_Indian_Army.svg
+		OF-8	Lieutenant General	https://upload.wikimedia.org/wikipedia/commons/0/0f/Lieutenant_General_of_the_Indian_Army.svg
+		OF-9	General	https://upload.wikimedia.org/wikipedia/commons/b/b4/General_of_the_Indian_Army.svg
+		OF-10	Field Marshal	https://upload.wikimedia.org/wikipedia/commons/8/87/Field_Marshal_of_the_Indian_Army.svg
+
+http://en.wikipedia.org/wiki/Army_ranks_and_insignia_of_India
