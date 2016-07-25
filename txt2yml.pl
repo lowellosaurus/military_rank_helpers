@@ -3,13 +3,13 @@
 use strict;
 use warnings FATAL => 'all';
 
-use YAML qw(Bless Dump);
+use YAML qw(DumpFile);
 
 # Collect all data in a hashref before dumping it to YAML. There's probably a
 # more direct way of doing this, but this is easy enough.
 my $data = {};
 
-# Run this script ($>perl txt2yml.pl > military_rank.yml) from main directory. Expect all data files
+# Run this script ($>perl txt2yml.pl military_rank.yml) from main directory. Expect all data files
 # to end in .txt and be similarly formatted.
 my @files = split("\n", `ls *.txt`);
 
@@ -36,7 +36,10 @@ foreach my $filename (@files) {
             if $has_seen_empty_line;
     }
 }
-print Dump $data;
+
+# Use DumpFile() instead of Dump() and redirecting STDOUT to a file because
+# DumpFile() sorts hash keys while Dump() does not.
+print DumpFile($ARGV[0], $data);
 
 sub addRankData {
     my ($row, $country, $branch) = @_;
